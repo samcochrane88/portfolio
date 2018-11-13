@@ -4,7 +4,7 @@ This is my portfolio
 
 ## Getting Started
 
-The website can be found at (https://samcochrane88.github.io/portfolio/) - My Portfolio
+The website can be found at [Portfolio](https://samcochrane88.github.io/portfolio/) - My Portfolio
 
 ## Built With
 
